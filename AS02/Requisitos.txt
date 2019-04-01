@@ -1,0 +1,9 @@
+Requisitos
+
+1 - O Software deverá ser capaz de, a partir do arquivo enviado pela Secretaria de Saúde, preencher a agendas;
+
+2 - O Software deverá ser capaz de exportar as agendas cadastradas de acordo com o padrão estabelecido pela Secretaria de Saúde (Anexo 01 - Documento com esquema de integração)
+
+3 - O Software deverá ser capaz de validar o arquivo enviado, acusando possíveis erros ou discordâncias com o padrão.
+
+4 - O Software deverá recusar arquivos que não atendam os padrões estabelecidos pela SES
